@@ -2,4 +2,4 @@
 
 For homework, i had to make a simple html website
 
-I have decided of adding pong to my simple game
+I have decided of adding pong game to my simple website
