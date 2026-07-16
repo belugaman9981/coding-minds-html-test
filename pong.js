@@ -8,7 +8,7 @@ document.addEventListener('keydown', e => {
 });
 
 function loop() {
-    bx += bdx; by += bdy;
+    bx += bdx; by += bdy; 
     if (by < 0 || by > 190) bdy = -bdy;
     if (bx < 15 && by > py && by < py + 40) bdx = -bdx;
     if (bx > 385 && by > cy && by < cy + 40) bdx = -bdx;
