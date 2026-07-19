@@ -1,4 +1,4 @@
-const c = document.getElementById('pong').getContext('2d'); 
+const c = document.getElementById('pong').getContext('2d');
 let bx = 200, by = 100, bdx = 3, bdy = 2;
 let py = 80, cy = 80;
 
