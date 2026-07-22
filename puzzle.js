@@ -1,4 +1,4 @@
-const c = document.getElementById('puzzle').getContext('2d');
+const c = document.getElementById('puzzle').getContext('2d'); 
 const size = 3;
 let tiles = [1,2,3,4,5,6,7,8,0];
 
