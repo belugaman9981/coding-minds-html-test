@@ -1,6 +1,6 @@
 const c = document.getElementById('puzzle').getContext('2d');
 const size = 3;
-let tiles = [1,2,3,4,5,6,7,8,0]; 
+let tiles = [1,2,3,4,5,6,7,8,0];
 
 function shuffle() {
     for (let i = 0; i < 100; i++) {
